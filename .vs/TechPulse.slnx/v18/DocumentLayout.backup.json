@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITILab\\API\\Lab3\\TechPulse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.bl\\service\\implementation\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|solutionrelative:techpulse.bl\\service\\implementation\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.pl\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|solutionrelative:techpulse.pl\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.bl\\service\\interface\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|solutionrelative:techpulse.bl\\service\\interface\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.dal\\repository\\postrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|solutionrelative:techpulse.dal\\repository\\postrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.dal\\repository\\ipostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|solutionrelative:techpulse.dal\\repository\\ipostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.bl\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|solutionrelative:techpulse.bl\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.bl\\dtos\\postresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|solutionrelative:techpulse.bl\\dtos\\postresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.bl\\helper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|solutionrelative:techpulse.bl\\helper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|solutionrelative:techpulse.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.dal\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|solutionrelative:techpulse.dal\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.bl\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|solutionrelative:techpulse.bl\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.bl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|solutionrelative:techpulse.bl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|solutionrelative:techpulse.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.bl\\techpulse.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E4D8AD8-30A0-D3D3-88E1-66E90EE90E29}|TechPulse.BL\\TechPulse.BL.csproj|solutionrelative:techpulse.bl\\techpulse.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.pl\\techpulse.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|solutionrelative:techpulse.pl\\techpulse.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71C587C0-1F39-651C-0990-E99337FE3CD2}|TechPulse.PL\\TechPulse.PL.csproj|solutionrelative:techpulse.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.dal\\migrations\\20260531203059_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|solutionrelative:techpulse.dal\\migrations\\20260531203059_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.dal\\techpulse.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|solutionrelative:techpulse.dal\\techpulse.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|solutionrelative:techpulse.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|d:\\itilab\\api\\lab3\\techpulse\\techpulse.dal\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A855670-1A11-2589-0CD3-D9FC2C1BA85A}|TechPulse.DAL\\TechPulse.DAL.csproj|solutionrelative:techpulse.dal\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "TechPulse.PL\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\Controllers\\PostController.cs*",
+              "RelativeToolTip": "TechPulse.PL\\Controllers\\PostController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T22:06:58.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Helper\\FileHelper.cs",
+              "RelativeDocumentMoniker": "TechPulse.BL\\Helper\\FileHelper.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Helper\\FileHelper.cs",
+              "RelativeToolTip": "TechPulse.BL\\Helper\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:17:23.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\Program.cs",
+              "RelativeDocumentMoniker": "TechPulse.PL\\Program.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\Program.cs",
+              "RelativeToolTip": "TechPulse.PL\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:22:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostResponseDto.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\DTOs\\PostResponseDto.cs",
+              "RelativeDocumentMoniker": "TechPulse.BL\\DTOs\\PostResponseDto.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\DTOs\\PostResponseDto.cs",
+              "RelativeToolTip": "TechPulse.BL\\DTOs\\PostResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:33:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPostRepo.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Repository\\IPostRepo.cs",
+              "RelativeDocumentMoniker": "TechPulse.DAL\\Repository\\IPostRepo.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Repository\\IPostRepo.cs*",
+              "RelativeToolTip": "TechPulse.DAL\\Repository\\IPostRepo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:45:45.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostRepo.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Repository\\PostRepo.cs",
+              "RelativeDocumentMoniker": "TechPulse.DAL\\Repository\\PostRepo.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Repository\\PostRepo.cs*",
+              "RelativeToolTip": "TechPulse.DAL\\Repository\\PostRepo.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:50:45.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Service\\Interface\\IPostService.cs",
+              "RelativeDocumentMoniker": "TechPulse.BL\\Service\\Interface\\IPostService.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Service\\Interface\\IPostService.cs*",
+              "RelativeToolTip": "TechPulse.BL\\Service\\Interface\\IPostService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:46:41.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Service\\Implementation\\PostService.cs",
+              "RelativeDocumentMoniker": "TechPulse.BL\\Service\\Implementation\\PostService.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Service\\Implementation\\PostService.cs*",
+              "RelativeToolTip": "TechPulse.BL\\Service\\Implementation\\PostService.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:48:54.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Enums\\Category.cs",
+              "RelativeDocumentMoniker": "TechPulse.DAL\\Enums\\Category.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Enums\\Category.cs",
+              "RelativeToolTip": "TechPulse.DAL\\Enums\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:04:20.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\DTOs\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "TechPulse.BL\\DTOs\\CreatePostDto.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\DTOs\\CreatePostDto.cs",
+              "RelativeToolTip": "TechPulse.BL\\DTOs\\CreatePostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:21:37.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TechPulse.BL\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "TechPulse.BL\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:43:03.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Common\\Response.cs",
+              "RelativeDocumentMoniker": "TechPulse.BL\\Common\\Response.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\Common\\Response.cs",
+              "RelativeToolTip": "TechPulse.BL\\Common\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:05:59.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TechPulse.PL\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TechPulse.PL\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T22:19:15.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TechPulse.BL.csproj",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\TechPulse.BL.csproj",
+              "RelativeDocumentMoniker": "TechPulse.BL\\TechPulse.BL.csproj",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.BL\\TechPulse.BL.csproj",
+              "RelativeToolTip": "TechPulse.BL\\TechPulse.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-31T21:05:08.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TechPulse.PL.csproj",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\TechPulse.PL.csproj",
+              "RelativeDocumentMoniker": "TechPulse.PL\\TechPulse.PL.csproj",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\TechPulse.PL.csproj",
+              "RelativeToolTip": "TechPulse.PL\\TechPulse.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-31T20:25:13.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "TechPulse.PL\\appsettings.json",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.PL\\appsettings.json",
+              "RelativeToolTip": "TechPulse.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T20:21:51.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260531203059_InitialCreate.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Migrations\\20260531203059_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TechPulse.DAL\\Migrations\\20260531203059_InitialCreate.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Migrations\\20260531203059_InitialCreate.cs",
+              "RelativeToolTip": "TechPulse.DAL\\Migrations\\20260531203059_InitialCreate.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:31:00.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TechPulse.DAL.csproj",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\TechPulse.DAL.csproj",
+              "RelativeDocumentMoniker": "TechPulse.DAL\\TechPulse.DAL.csproj",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\TechPulse.DAL.csproj",
+              "RelativeToolTip": "TechPulse.DAL\\TechPulse.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-31T20:02:25.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TechPulse.DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "TechPulse.DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:10:38.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "TechPulse.DAL\\Models\\Post.cs",
+              "ToolTip": "D:\\ITILab\\API\\Lab3\\TechPulse\\TechPulse.DAL\\Models\\Post.cs",
+              "RelativeToolTip": "TechPulse.DAL\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:03:09.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

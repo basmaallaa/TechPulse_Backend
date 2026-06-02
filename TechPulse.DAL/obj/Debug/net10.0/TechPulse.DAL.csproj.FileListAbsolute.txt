@@ -1,0 +1,14 @@
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\bin\Debug\net10.0\TechPulse.DAL.deps.json
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\bin\Debug\net10.0\TechPulse.DAL.runtimeconfig.json
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\bin\Debug\net10.0\TechPulse.DAL.dll
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\bin\Debug\net10.0\TechPulse.DAL.pdb
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\TechPulse.DAL.csproj.AssemblyReference.cache
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\TechPulse.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\TechPulse.DAL.AssemblyInfoInputs.cache
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\TechPulse.DAL.AssemblyInfo.cs
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\TechPulse.DAL.csproj.CoreCompileInputs.cache
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\TechPulse.DAL.dll
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\refint\TechPulse.DAL.dll
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\TechPulse.DAL.pdb
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\TechPulse.DAL.genruntimeconfig.cache
+D:\ITILab\API\Lab3\TechPulse\TechPulse.DAL\obj\Debug\net10.0\ref\TechPulse.DAL.dll

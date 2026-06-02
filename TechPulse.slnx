@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TechPulse.BL/TechPulse.BL.csproj" />
+  <Project Path="TechPulse.DAL/TechPulse.DAL.csproj" />
+  <Project Path="TechPulse.PL/TechPulse.PL.csproj" />
+</Solution>
